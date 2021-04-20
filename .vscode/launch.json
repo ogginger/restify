@@ -6,15 +6,13 @@
         "outFiles": [
             "${workspaceFolder}/builds/*.js"
         ],
-        "console": "integratedTerminal",
         "stopOnEntry": true,
         "sourceMaps": true,
         "request": "launch",
         "skipFiles": [
             "<node_internals>/**"
         ],
-        "type": "node",
-        "debugServer": 9229
+        "type": "node"
     }],
     "compounds": []
 }
