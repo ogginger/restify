@@ -6,7 +6,6 @@
         "outFiles": [
             "${workspaceFolder}/builds/*.js"
         ],
-        "stopOnEntry": true,
         "sourceMaps": true,
         "request": "launch",
         "skipFiles": [

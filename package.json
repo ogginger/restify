@@ -17,7 +17,13 @@
   },
   "homepage": "https://github.com/ogginger/empty#readme",
   "devDependencies": {
+    "@types/express": "^4.17.11",
     "@types/lodash": "^4.14.168",
+    "@types/mysql": "^2.15.18",
     "lodash": "^4.17.21"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
   }
 }
